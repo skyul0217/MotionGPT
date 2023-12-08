@@ -2,3 +2,5 @@ deps/
 datasets/
 results/
 checkpoints/
+*.tar.gz
+*.patch
